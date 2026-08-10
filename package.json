@@ -30,7 +30,7 @@
         "autoprefixer": "^10.4.4",
         "parcel": "^2.4.1",
         "parcel-plugin-clean-dist": "^0.0.6",
-        "postcss": "^8.1.0",
+        "postcss": "^8.5.23",
         "sass": "^1.49.11",
         "surge": "^0.23.1"
     },
